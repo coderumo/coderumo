@@ -2,7 +2,6 @@
 - I’m currently working on Front-end 
 - I’m currently learning CSS JS and JAVA
 
-✨Information is everything
 
 ### Contect with me
 rumeysa.alkaya@bil.omu.edu.tr
