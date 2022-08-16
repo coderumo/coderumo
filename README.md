@@ -1,6 +1,6 @@
 ### Hi there I'm Rumeysa🙋‍♀️
 - I’m currently working on Front-end and database
-- I’m currently learning CSS JS and JAVA
+- I’m currently learning CSS,JS,REACT,SPRİNG BOOT
 
 
 ### Contect with me
