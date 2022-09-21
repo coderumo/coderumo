@@ -1,5 +1,5 @@
 ### Hi there I'm Rumeysa🙋‍♀️
-- I’m currently working on Front-end and database
+- I’m currently working on Full-stack
 - I’m currently learning CSS,JS,REACT,SPRİNG BOOT
 
 
