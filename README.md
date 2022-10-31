@@ -1,6 +1,6 @@
 ### Hi there I'm Rumeysa🙋‍♀️
 - I’m currently working on Full-stack
-- I’m currently learning CSS,JS,REACT,SPRİNG BOOT
+- I’m currently learning FLUTTER, CSS,JS,REACT,SPRİNG BOOT
 
 
 ### Contect with me
