@@ -1,6 +1,6 @@
 ### Hi there I'm Rumeysa🙋‍♀️
-- I’m currently working on Full-stack
-- I’m currently learning FLUTTER, CSS,JS,REACT,SPRİNG BOOT
+- I’m currently working on Mobil App development
+- I’m currently learning Flutter
 
 
 ### Contect with me
@@ -13,7 +13,7 @@ rumeysa.alkaya@bil.omu.edu.tr
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Front-end 
-- 🌱 I’m currently learning CSS JS and JAVA
+- 🌱 I’m currently learning CSS JS 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
