@@ -1,6 +1,6 @@
 ### Hi there I'm Rumeysa🙋‍♀️
 - I’m currently working on Mobil App development
-- I’m currently learning Flutter and nodeJS
+- I’m currently learning Flutter, java, Spring Boot
 
 
 ### Contect with me
