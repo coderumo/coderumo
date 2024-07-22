@@ -1,6 +1,6 @@
 ### Hi there I'm Rumeysa🙋‍♀️
-- I’m currently working on Mobil App development
-- I’m currently learning Flutter, java, Spring Boot, Sql(mssql, mysql, postgreSql)
+- I’m currently working on Frontend development(Flutter, React)
+- I’m currently learning React, Flutter, java, Sql(mssql, mysql, postgreSql)
 
 
 ### Contect with me
